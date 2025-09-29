@@ -171,3 +171,16 @@ Quiz_app/
 ├─ database.py      # Database engine & session
 └─ README.md        # Project documentation
 ---
+```
+## The example images Swagger UI
+<img width="1903" height="949" alt="Screenshot 2025-09-29 211903" src="https://github.com/user-attachments/assets/2e8ec1bc-6a63-4b84-8b20-9870cb027def" />
+<img width="1888" height="955" alt="Screenshot 2025-09-29 211927" src="https://github.com/user-attachments/assets/08a8560a-113d-4e6c-af7b-511c26e86b82" />
+<img width="1878" height="950" alt="Screenshot 2025-09-29 211945" src="https://github.com/user-attachments/assets/6f06d5ce-e600-448f-b251-f7153bca4bd5" />
+<img width="1876" height="932" alt="Screenshot 2025-09-29 212025" src="https://github.com/user-attachments/assets/b80b1b95-5a60-4ace-a775-e3e3c84f4a29" />
+<img width="1883" height="944" alt="Screenshot 2025-09-29 212040" src="https://github.com/user-attachments/assets/4fa17f6a-52d5-4130-a04f-a4475ff55230" />
+<img width="1882" height="927" alt="Screenshot 2025-09-29 212136" src="https://github.com/user-attachments/assets/316f5941-4c3a-410d-ba50-36c9e517562c" />
+<img width="1899" height="946" alt="Screenshot 2025-09-29 212151" src="https://github.com/user-attachments/assets/469f00fb-4b61-4992-8941-1132ad6a6649" />
+
+
+
+``
